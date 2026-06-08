@@ -1,0 +1,23 @@
+data source
+
+Dự án Dự báo Nguồn Năng lượng Toàn cầu "Prediction of Worldwide Energy Resources"(POWER) cung cấp dữ liệu khí tượng từ các nghiên cứu của NASA nhằm hỗ trợ năng lượng tái tạo, hiệu quả năng lượng trong các tòa nhà và hỗ trợ nông nghiệp. NASA có một chương trình nghiên cứu Khoa học Trái Đất với các hệ thống vệ tinh cung cấp dữ liệu nghiên cứu quan trọng cho việc nghiên cứu khí hậu và các quá trình khí hậu. Những dữ liệu này bao gồm các ước tính trung bình khí hậu dài hạn và các thông số về dòng năng lượng mặt trời bề mặt.
+
+data collection
+
+Dữ liệu được thu thập từ Power Data Access Viewer.
+
+Dữ liệu khí tượng từ dự án POWER là dữ liệu dự báo hoặc quan sát được cung cấp bởi mô hình đồng hóa MERRA-2 của GMAO thuộc NASA.
+
+Dữ liệu thu thập có tần suất hàng tháng tại một vĩ độ và kinh độ cụ thể ở Mumbai, trong giai đoạn từ năm 2000 đến năm 2020.
+
+Dữ liệu bao gồm các biến sau:
+
+Độ ẩm riêng phần (Specific Humidity)
+
+Độ ẩm tương đối (Relative Humidity)
+
+Nhiệt độ (Temperature)
+
+Lượng mưa (Precipitation): Dữ liệu lượng mưa được ghi nhận dưới dạng tổng lượng mưa tính theo từng tháng.
+
+https://www.data.opencity.in/dataset/mumbai-rainfall-data/resource/6b7b0aed-e31d-433b-ba6d-b17b08a000df?view_id=835c83df-adaa-4383-8217-0ee69b045372
