@@ -28,7 +28,7 @@ và các quá trình khí hậu. Những dữ liệu này bao gồm các ước 
 1. Tải dữ liệu
 2. Thống kê mô tả
 3. Làm sạch dữ liệu
-4. Trực quan háo dữ liệu
+4. Trực quan hóa dữ liệu
 5. Tìm mô hình phù hợp với bộ dữ liệu
 6. Kiểm định giả thuyết sai số của mô hình
 7. Dự báo lượng mưa 12 tháng tiếp theo năm 2020 tại Mumbai
