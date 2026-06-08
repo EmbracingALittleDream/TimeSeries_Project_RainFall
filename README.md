@@ -1,6 +1,6 @@
 # Prediction of Worldwide Energy Resources
 
-## Mục tiêu của dự án 
+## Objective
 Dự báo lượng mưa 12 tháng tiếp theo của năm 2020 tại Mumbai bằng mô hình SARIMA
 
 ## Project Overview
